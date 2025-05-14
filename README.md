@@ -1,1 +1,1 @@
-# REact
+This repository will be deleted.
